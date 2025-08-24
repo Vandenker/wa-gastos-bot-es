@@ -4,3 +4,4 @@ psycopg[binary]
 SQLAlchemy>=2
 requests
 pytz
+phonenumbers==8.13.40
